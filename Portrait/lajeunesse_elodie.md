@@ -12,3 +12,5 @@ Expériences VR:
 ![Photo](Photos/vr1.png)
 
 Mon projet de crédits de film:
+![Photo](Photos/projet_2_image_2.jpg)
+![Photo](Photos/projet_3_image_3.jpg)
