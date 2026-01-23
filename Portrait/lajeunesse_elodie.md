@@ -7,10 +7,10 @@ J’aimerais améliorer mes compétences en montage vidéo, que ce soit pour des
 
 En illustration numérique, j’apprécie le style Nouvel Art, découvert lors de mon projet de crédits de film. Ce style me correspond bien, car il est coloré sans être trop complexe, ce qui correspond davantage à mes goûts artistiques.
 
-Expériences VR:
+## Expériences VR: ##
 ![Photo](Photos/vr2.png)
 ![Photo](Photos/vr1.png)
 
-Mon projet de crédits de film:
+## Mon projet de crédits de film: ##
 ![Photo](Photos/projet_2_image_2.jpg)
-![Photo](Photos/projet_3_image_3.jpg)
+![Photo](Photos/projet_2_image_3.jpg)
