@@ -1,7 +1,10 @@
 # Élodie Lajeunesse #
 
 ## Intérêts dans le multimdédia ##
-Je suis intéresser par le montage vidéo, la réalité virtuelle et l'illustration numérique. J'ai fais des activités de VR à Montréal que j'ai beaucoup aimé: Mondes disparus et L'Horizon de Khéops. J'ai eu vraiment l'impression d'être dans un univers différent. J'aimerais faire du montage vidéo pour des vidéos youtube ou pour des bandes annonces de film. Les effets spéciaux utilisés dans les bandes annonces ainsi que les animations de textes et les transititons m'intéressent, j'aimerais en apprendre plus. Pour l'illustration numérique, j'aime le style Nouvel Art depuis mon projet de crédits de film. C'est un style à mon goût puisqu'il n'est pas trop complexe et très coloré.
+Je m’intéresse particulièrement au montage vidéo, à la réalité virtuelle et à l’illustration numérique. J’ai eu l’occasion de participer à des expériences de VR à Montréal: Mondes disparus et L’Horizon de Khéops, que j’ai énormément appréciées. Ces expériences m’ont donné la forte impression d’être plongé dans des univers totalement différents.
 
+J’aimerais améliorer mes compétences en montage vidéo, que ce soit pour des vidéos YouTube ou des bandes-annonces de films. Les effets spéciaux utilisés dans les trailers ainsi que les animations de texte et les transitions m’intéressent particulièrement et j’aimerais en apprendre davantage à ce sujet.
+
+En illustration numérique, j’apprécie le style Nouvel Art, découvert lors de mon projet de crédits de film. Ce style me correspond bien, car il est coloré sans être trop complexe, ce qui correspond davantage à mes goûts artistiques.
 ![Photo](Photos/vr2.png)
 ![Photo](Photos/vr1.png)
