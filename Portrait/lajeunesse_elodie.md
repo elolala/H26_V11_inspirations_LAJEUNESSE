@@ -6,5 +6,7 @@ Je m’intéresse particulièrement au montage vidéo, à la réalité virtuelle
 J’aimerais améliorer mes compétences en montage vidéo, que ce soit pour des vidéos YouTube ou des bandes-annonces de films. Les effets spéciaux utilisés dans les trailers ainsi que les animations de texte et les transitions m’intéressent particulièrement et j’aimerais en apprendre davantage à ce sujet.
 
 En illustration numérique, j’apprécie le style Nouvel Art, découvert lors de mon projet de crédits de film. Ce style me correspond bien, car il est coloré sans être trop complexe, ce qui correspond davantage à mes goûts artistiques.
+
+Expériences VR:
 ![Photo](Photos/vr2.png)
 ![Photo](Photos/vr1.png)
