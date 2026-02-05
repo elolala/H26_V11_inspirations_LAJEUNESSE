@@ -1,4 +1,4 @@
 # Devenir partagés pratique de l'IA
 ## Galerie d'Art Université de Montréal
 ### SlopPsyopRealism (Plea$e subscribe) - Francisco González-Rosas
-![Photo](Photos/)
+![Photo](Photos/devant_oeuvre.jpg)
