@@ -3,4 +3,4 @@
 ### SlopPsyopRealism (Plea$e subscribe) - Francisco González-Rosas
 ## Exposition de type complative
 ![Photo](Photos/devant_oeuvre.jpg)
->29 janvier 2026 - SlopPsyopRealism (Plea$e subscribe)
+>29 janvier 2026 - SlopPsyopRealism (Plea$e subscribe) - Réalisé en 2025
