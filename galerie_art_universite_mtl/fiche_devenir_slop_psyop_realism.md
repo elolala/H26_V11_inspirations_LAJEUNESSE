@@ -2,3 +2,4 @@
 ## Galerie d'Art Université de Montréal
 ### SlopPsyopRealism (Plea$e subscribe) - Francisco González-Rosas
 ![Photo](Photos/devant_oeuvre.jpg)
+>29 janvier 2026 - SlopPsyopRealism (Plea$e subscribe)
