@@ -21,4 +21,4 @@
 <br>
 
 ![Photo](Photos/derriere_oeuvre.jpg) ![Photo](Photos/video_oeuvre.jpg)
-- Derrière l'installation, on y retrouve l'expérience. Elle repose sur une vidéo générée par l'IA conçue par l'artiste. Les images et la narration se mélangent à des éléments personnels, comme la présence de sa soeur. La fusion de l'artiste et sa soeur créer un effet intime et troublant à regarder mais tout de même intéressant.
+- Derrière l'installation, on y retrouve l'expérience. Elle repose sur une vidéo générée par l'IA conçue par l'artiste. Les images et la narration se mélangent à des éléments personnels, comme la présence de sa soeur. La fusion de l'artiste et sa soeur créer un effet intime et troublant à regarder mais qui reste tout de même intéressant et créatif.
