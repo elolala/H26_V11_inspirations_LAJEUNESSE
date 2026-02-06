@@ -22,3 +22,8 @@
 
 ![Photo](Photos/derriere_oeuvre.jpg) ![Photo](Photos/video_oeuvre.jpg)
 - Derrière l'installation, on y retrouve l'expérience. Elle repose sur une vidéo générée par l'IA conçue par l'artiste. Les images et la narration se mélangent à des éléments personnels, comme la présence de sa soeur. La fusion de l'artiste et sa soeur créer un effet intime et troublant à regarder mais qui reste tout de même intéressant et créatif.
+
+<br>
+
+### Expérience Vécue
+- J'ai aimer le fait de circuler librement autour de l'installation. J'ai pu mieux comprendre sa composition en la regardant sous différents angles. Ensuite, les images et les objets utilisés m'ont beaucoup rappelés des réseaux sociaux. J'ai trouvé leur représentation à la fois attirante et dérangeante.
