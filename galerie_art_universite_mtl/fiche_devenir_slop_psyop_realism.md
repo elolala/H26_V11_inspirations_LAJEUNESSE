@@ -16,5 +16,5 @@
 
 ![Photo](Photos/eloigner_oeuvre.jpg) ![Photo](Photos/derriere_oeuvre.jpg)
 <br>
-![Photo](Photos/livre_fermer_oeuvre.jpg) ![Photo](Photos/livre_ouvert_oeuvre.jpg)
+![Photo](Photos/livre_ouvert_oeuvre.jpg) ![Photo](Photos/credits_oeuvre.jpg)
 - L’installation est disposée de manière à permettre au spectateur de circuler autour de l’œuvre, offrant différents points de vue selon la position.
