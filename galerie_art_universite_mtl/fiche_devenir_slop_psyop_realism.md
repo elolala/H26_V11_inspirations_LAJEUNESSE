@@ -5,7 +5,7 @@
 >29 janvier 2026 - SlopPsyopRealism (Plea$e subscribe) - Réalisé en 2025
 >
 - Exposition de type complative portant sur les pratiques artistiques liées à l’intelligence artificielle.
-- L'oeuvre prend la forme d'une installation multimédia composée d'écrans, de haut-parleurs et d'éléments visuels rappelant l'esthétique des réseaux sociaux. Des images générées par l'intelligence artificielle sont projetées en continu avec la narration d'un chatbot
+- L'oeuvre prend la forme d'une installation multimédia composée d'écrans, de haut-parleurs et d'éléments visuels rappelant l'esthétique des réseaux sociaux. Des images générées par l'intelligence artificielle sont projetées en continu avec la narration d'un chatbot.
   
 <br>
 
