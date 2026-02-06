@@ -29,4 +29,4 @@
 - J'ai apprécié le fait de circuler librement autour de l'installation. J'ai pu mieux comprendre sa composition en l'observant sous différents angles. Ensuite, les images et les objets utilisés m'ont beaucoup rappelé des réseaux sociaux, une représentation que j'ai trouvée à la fois attirante et dérangeante. Pour finir, les couleurs utilisés sont très vives et attirent l'oeil, ce qui a éveillé ma curiosité.
 
 ### Ce que j'ai aimé
-- J'ai particulièrement aimé l'utilisation des emojis pour représenter l'opinion du public. Même avec l'utilisation avec l'IA, l'oeuvre reste très créative avec un concept unique et jamais vu. Le thème des réseaux sociaux et la politique rend l'oeuvre accessible et actuelle.
+- J'ai particulièrement aimé l'utilisation des emojis pour représenter l'opinion du public. Même avec l'utilisation de l'IA, l'oeuvre reste très créative avec un concept unique et créatif. Le thème des réseaux sociaux et la politique rend l'oeuvre accessible et actuelle. La présence d'éléments politiques reflète bien la manière dont ces contenus apparaissent dans notre quotidien en ligne qui est très souvent mêlés au divertissement.
