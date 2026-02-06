@@ -16,4 +16,4 @@
 <br>
 
 ![Photo](Photos/proche_oeuvre.jpg) ![Photo](Photos/emojis_oeuvre.jpg)
-- Sur le coté de l'installation, on y trouve un drapeau qui représente une dimension politique à l'oeuvre. Ces éléments rappellent la présence de contenu politique sur les réseaux sociaux mêlés à d'autres types d'images. Les émotions du public face à cet enjeu sont représentées par les emojis, des symboles de réaction qu'on retrouve en ligne. C'est l'opinion du public qui se transforme en art.
+- Sur le côté de l’installation, on voit beaucoup d’images, d’objets et de symboles qui rappellent l’univers des réseaux sociaux. Le drapeau ajoute une dimension politique et montre comment le contenu politique se mélange souvent au divertissement en ligne. Les emojis représentent les réactions du public et montrent comment l’opinion des gens peut être représentée sous forme d'art.
