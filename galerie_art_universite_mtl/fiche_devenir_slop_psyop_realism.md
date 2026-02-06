@@ -26,4 +26,4 @@
 <br>
 
 ### Expérience Vécue
-- J'ai aimer le fait de circuler librement autour de l'installation. J'ai pu mieux comprendre sa composition en la regardant sous différents angles. Ensuite, les images et les objets utilisés m'ont beaucoup rappelés des réseaux sociaux. J'ai trouvé leur représentation à la fois attirante et dérangeante.
+- J'ai aimer le fait de circuler librement autour de l'installation. J'ai pu mieux comprendre sa composition en l'observant sous différents angles. Ensuite, les images et les objets utilisés m'ont beaucoup rappelé des réseaux sociaux, une représentation que j'ai trouvée à la fois attirante et dérangeante. Pour finir, les couleurs utilisés sont très vives et attirent l'oeil, ce qui a éveillé ma curiosité.
