@@ -1,7 +1,7 @@
 # Devenir partagés pratique de l'IA
 ## Galerie d'Art Université de Montréal
 ### SlopPsyopRealism (Plea$e subscribe) - Francisco González-Rosas
-![Photo](Photos/devant_oeuvre.jpg)
+![Photo](Photos/devant_oeuvre.jpg) ![Photo](Photos/credits_oeuvre.jpg)
 >29 janvier 2026 - SlopPsyopRealism (Plea$e subscribe) - Réalisé en 2025
 >
 - Exposition de type complative portant sur les pratiques artistiques liées à l’intelligence artificielle.
@@ -16,5 +16,5 @@
 
 ![Photo](Photos/eloigner_oeuvre.jpg) ![Photo](Photos/derriere_oeuvre.jpg)
 <br>
-![Photo](Photos/livre_ouvert_oeuvre.jpg) ![Photo](Photos/credits_oeuvre.jpg)
+![Photo](Photos/livre_ouvert_oeuvre.jpg) ![Photo](Photos/video_oeuvre.jpg)
 - L’installation est disposée de manière à permettre au spectateur de circuler autour de l’œuvre, offrant différents points de vue selon la position.
