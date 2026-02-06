@@ -13,7 +13,7 @@
 <br>
 - L’installation est disposée de manière à permettre au spectateur de circuler autour de l’œuvre, offrant différents points de vue selon la position du spectateur.
 
-<br>
+### Détails (objets, images, réseaux sociaux)
 
 ![Photo](Photos/proche_oeuvre.jpg) ![Photo](Photos/emojis_oeuvre.jpg)
 - Sur le côté de l’installation, on voit beaucoup d’images, d’objets et de symboles qui rappellent l’univers des réseaux sociaux. Le drapeau ajoute une dimension politique et montre comment le contenu politique se mélange souvent au divertissement en ligne. Les emojis représentent les réactions du public et montrent comment l’opinion des gens peut être représentée sous forme d'art.
