@@ -32,6 +32,6 @@
 - J'ai particulièrement aimé l'utilisation des emojis pour représenter l'opinion du public. Même avec l'utilisation de l'IA, l'oeuvre reste très créative avec un concept unique et à la fois bouleversant. Le thème des réseaux sociaux et la politique rend l'oeuvre accessible et actuelle. La présence d'éléments politiques reflète bien la manière dont ces contenus apparaissent dans notre quotidien en ligne qui est très souvent mêlés au divertissement.
 
 ### Ce que je ferais autrement
-Si je devais modifier l'oeuvre, j'ajouterais davantage l'interaction avec le public pour renforcer l'immersion. Par exemple, permettre les spectateurs d'interagir avec le contenu projeté pour rendre l'expérience plus amusante.
+- Si je devais modifier l'oeuvre, j'ajouterais davantage l'interaction avec le public pour renforcer l'immersion. Par exemple, permettre les spectateurs d'interagir avec le contenu projeté pour rendre l'expérience plus amusante.
 
 ### Références
