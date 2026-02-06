@@ -18,7 +18,7 @@
 ![Photo](Photos/proche_oeuvre.jpg) ![Photo](Photos/emojis_oeuvre.jpg)
 - Sur le côté de l’installation, on voit beaucoup d’images, d’objets et de symboles qui rappellent l’univers des réseaux sociaux. Le drapeau ajoute une dimension politique et montre comment le contenu politique se mélange souvent au divertissement en ligne. Les emojis représentent les réactions du public et montrent comment l’opinion des gens peut être représentée sous forme d'art.
 
-<br>
+### Expérience vidéo
 
 ![Photo](Photos/derriere_oeuvre.jpg) ![Photo](Photos/video_oeuvre.jpg)
 - Derrière l'installation, on y retrouve l'expérience. Elle repose sur une vidéo générée par l'IA conçue par l'artiste. Les images et la narration se mélangent à des éléments personnels, comme la présence de sa soeur. La fusion de l'artiste et sa soeur créer un effet intime et troublant à regarder mais qui reste tout de même intéressant et créatif.
