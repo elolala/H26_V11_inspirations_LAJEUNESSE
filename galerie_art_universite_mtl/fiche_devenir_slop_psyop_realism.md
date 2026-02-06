@@ -9,6 +9,7 @@
   
 <br>
 ### Vue générale
+
 ![Photo](Photos/eloigner_oeuvre.jpg) ![Photo](Photos/coter_oeuvre.jpg)
 <br>
 - L’installation est disposée de manière à permettre au spectateur de circuler autour de l’œuvre, offrant différents points de vue selon la position du spectateur.
