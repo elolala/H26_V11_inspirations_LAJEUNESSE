@@ -8,7 +8,7 @@
 - L'oeuvre prend la forme d'une installation multimédia composée d'écrans, de haut-parleurs et d'éléments visuels rappelant l'esthétique des réseaux sociaux. Des images générées par l'intelligence artificielle sont projetées en continu avec la narration d'un chatbot, créer en reprenant l'analyse des sentiments. Les images sur l'oeuvre n'ont pas un réel sens pour but de chercher la curiosité de ses spectateurs. Son idée est capitalisme, pour la vente, ce qui attire beaucoup l'attention puisqu'elle a le visuel d'un magasin.
   
 <br>
-
+### Vue générale
 ![Photo](Photos/eloigner_oeuvre.jpg) ![Photo](Photos/coter_oeuvre.jpg)
 <br>
 - L’installation est disposée de manière à permettre au spectateur de circuler autour de l’œuvre, offrant différents points de vue selon la position du spectateur.
