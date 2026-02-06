@@ -11,3 +11,8 @@
 
 ![Photo](Photos/coter_oeuvre.jpg) ![Photo](Photos/proche_oeuvre.jpg)
 - Sur le coté de l'installation, on y trouve un drapeau qui représente une dimension politique à l'oeuvre. Ces éléments rappellent la présence de contenu politique sur les réseaux sociaux mêlés à d'autres types d'images. Les émotions du public face à cet enjeu sont représentées par les emojis, des symboles de réaction qu'on retrouve en ligne.
+
+<br>
+
+![Photo](Photos/eloigner_oeuvre.jpg)
+- L’installation est disposée de manière à permettre au spectateur de circuler autour de l’œuvre, offrant différents points de vue selon la position.
