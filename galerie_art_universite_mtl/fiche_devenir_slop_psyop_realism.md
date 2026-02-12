@@ -35,3 +35,4 @@
 - Si je devais modifier l'oeuvre, j'ajouterais davantage l'interaction avec le public pour renforcer l'immersion. Par exemple, permettre les spectateurs d'interagir avec le contenu projeté pour rendre l'expérience plus amusante.
 
 ### Références
+(https://galerie.umontreal.ca/)
