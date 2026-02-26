@@ -6,3 +6,4 @@
 - Félix Lavoie
 - Patricia Nassif
 - Manel Yaya
+## Installation en cours (ou finale)
