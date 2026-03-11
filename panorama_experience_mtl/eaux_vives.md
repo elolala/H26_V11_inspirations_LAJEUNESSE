@@ -1,2 +1,2 @@
 # Eaux Vives
-## Panorama Expérience - Montréal
+## Panorama Expérience - Grand Quai du Port de Montréal
