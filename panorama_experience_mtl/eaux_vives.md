@@ -16,3 +16,6 @@
 
 ### Expérience vidéo
 Une autre salle présente une vidéo sur la migration des têtards. La vidéo explique comment ils se déplacent, comment ils vivent, les dangers qu’ils rencontrent et leur croissance. Les humains présents dans la vidéo cherchent aussi à les protéger et ont filmé le déplacement des têtards pendant une longue journée. Dans la salle, il y a un seul écran, une lumière bleu-mauve qui créer une ambiance aquatique et des bancs pour s’asseoir et regarder la vidéo.
+
+### Espacement
+
