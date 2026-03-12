@@ -18,13 +18,13 @@
 ![Photo](Photos/Croquis_projections.jpg)
 
 ### Ce que j'ai aimé
-J’ai beaucoup aimé l’exposition parce qu’elle était très immersive. Les sons, les images et les bancs qui vibraient rendaient l’expérience très réaliste. J’ai surtout aimé la projection sur la baleine parce qu’on pouvait comprendre comment elle perçoit le monde.
+J’ai beaucoup aimé l’exposition parce qu’elle était très immersive. Les sons, les images et les bancs qui vibraient rendaient l’expérience très réaliste. J’ai surtout aimé la projection sur la baleine parce qu’on pouvait comprendre comment elle perçoit le monde. Je me sentais beaucoup dans le monde aquatique.
 
 ### Ce que je ferais autrement
-Je ne changerais pas grand-chose parce que j’ai vraiment aimé l’exposition. Peut-être ajouter des effets de vagues sur le sol lorsqu'on marche.
+Je ne changerais pas grand-chose parce que j’ai vraiment aimé l’exposition. Peut-être ajouter des effets de vagues sur le sol lorsqu'on marche pour rendre l'expérience plus amusante et inviter les visiteurs à plus se déplacer dans les salles.
 
 ### Mon expérience vécue
-Pendant ma visite de Panorama Expérience – Eaux vives, je me suis sentie plongée dans l’univers de l’océan grâce aux sons et aux projections. C’était une expérience à la fois relaxante et intéressante.
+Pendant ma visite de Panorama Expérience – Eaux vives, je me suis sentie plongée dans l’univers de l’océan grâce aux sons et aux projections. C’était une expérience à la fois relaxante et intéressante. Je ne m'y attendais pas.
 
 ### Références
 https://www.mtl.org/fr/quoi-faire/festivals-et-evenements/panorama-experience-eaux-vives
