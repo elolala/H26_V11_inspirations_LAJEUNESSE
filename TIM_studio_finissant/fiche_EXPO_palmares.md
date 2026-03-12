@@ -25,3 +25,16 @@
 ## Ce que j'ai ressentis
 ## 3 Cours incontournables
 ## Composante/Technique que je ne connaissais pas
+
+## N. 3 / Mission Décollage
+## Créateurs et créatrices
+- Ahmed Kaissoumi
+- Radhouane Kordan
+- Justin Montpetit
+- Thearylou Lach
+- Jad Saloumi
+## Installation en cours (ou finale)
+## Schéma de l'installation prévue
+## Ce que j'ai ressentis
+## 3 Cours incontournables
+## Composante/Technique que je ne connaissais pas
