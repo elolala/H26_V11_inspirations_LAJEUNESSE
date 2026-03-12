@@ -15,6 +15,7 @@
 - La deuxième projection montre l’esprit de la baleine et ce qu’elle perçoit grâce au son. On voit des mouvements d’eau et des formes qui se transforment en petites particules lorsque les animaux marins se déplacent ou se décomposent. Les particules se déplacent en vagues ce qui rappelle l’environnement aquatique. La salle utilise plus de quatre haut-parleurs placés autour de l’espace, ce qui donne l’impression d’être à l’intérieur de l’esprit de la baleine. On entend les bruits de l’eau et de la respiration. Il y a deux poufs et un banc vibrant ainsi que trois écrans avec trois projecteurs.
 
 ### Espacement
+![Photo](Photos/Croquis_projections.jpg)
 
 ### Ce que j'ai aimé
 J’ai beaucoup aimé l’exposition parce qu’elle était très immersive. Les sons, les images et les bancs qui vibraient rendaient l’expérience très réaliste. J’ai surtout aimé la projection sur la baleine parce qu’on pouvait comprendre comment elle perçoit le monde.
