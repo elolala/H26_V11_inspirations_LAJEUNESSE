@@ -1,5 +1,5 @@
 # Panorama Expérience - Grand Quai du Port de Montréal
-# Eaux Vives
+# Eaux Vives - Échos de l'esprit de la baleine
 - Exposition de type contemplative et immersive portant sur la relation entre l’humain et la nature, plus particulièrement l’eau et les écosystèmes aquatiques. Accessible du 24 février au 31 décembre 2026.
 - ![Photo](Photos/Titre_exposition.jpg)
 >27 février 2026 - Eaux Vives - Réalisé en 2025
