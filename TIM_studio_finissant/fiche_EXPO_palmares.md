@@ -1,5 +1,19 @@
 # EXPOSITION DES ÉTUDIANT.E.S FINISSANT.E.S EN TIM
-## N. 1 / Quand les yeux se croisent
+
+## N. 1 / Terminal
+## Créateurs et créatrices
+- Émeryk Bélisle
+- Elie Daher
+- Ting Yung Lu Terry
+- Dana Saavedra-Torrano
+- Mégane Ranger
+## Installation en cours (ou finale)
+## Schéma de l'installation prévue
+## Ce que j'ai ressentis
+## 3 Cours incontournables
+## Composante/Technique que je ne connaissais pas
+
+## N. 2 / Quand les yeux se croisent
 ## Créateurs et créatrices
 - Edelwyn Ledru
 - Jade Hébert
@@ -7,3 +21,7 @@
 - Patricia Nassif
 - Manel Yaya
 ## Installation en cours (ou finale)
+## Schéma de l'installation prévue
+## Ce que j'ai ressentis
+## 3 Cours incontournables
+## Composante/Technique que je ne connaissais pas
