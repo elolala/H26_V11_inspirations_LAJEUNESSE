@@ -27,3 +27,6 @@ Je ne changerais pas grand-chose parce que j’ai vraiment aimé l’exposition.
 
 ### Mon expérience vécue
 Pendant ma visite de Panorama Expérience – Eaux vives, je me suis sentie plongée dans l’univers de l’océan grâce aux sons et aux projections. C’était une expérience à la fois relaxante et intéressante.
+
+### Références
+https://www.mtl.org/fr/quoi-faire/festivals-et-evenements/panorama-experience-eaux-vives
