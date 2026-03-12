@@ -13,3 +13,6 @@
 
 ### À l'extérieur des salles
 À l’extérieur, il y a plusieurs photos et œuvres. Certaines œuvres sont réalisées avec des plastiques et des déchets retrouvés dans l’océan, transformés en œuvres d’art, par exemple des ballons de soccer ou de basket, du plastique et d’autres résidus. Il y a aussi des photos et des informations sur les bélugas qui présentent des événements marquants de leur histoire ainsi que d'autres événements écrits sur les vitres.
+
+### Expérience vidéo
+Une autre salle présente une vidéo sur la migration des têtards. La vidéo explique comment ils se déplacent, comment ils vivent, les dangers qu’ils rencontrent et leur croissance. Les humains présents dans la vidéo cherchent aussi à les protéger et ont filmé le déplacement des têtards pendant une longue journée. Dans la salle, il y a un seul écran, une lumière bleu-mauve qui créer une ambiance aquatique et des bancs pour s’asseoir et regarder la vidéo.
