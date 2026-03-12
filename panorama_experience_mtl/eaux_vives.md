@@ -19,3 +19,11 @@ Une autre salle présente une vidéo sur la migration des têtards. La vidéo ex
 
 ### Espacement
 
+### Ce que j'ai aimé
+J’ai beaucoup aimé l’exposition parce qu’elle était très immersive. Les sons, les images et les bancs qui vibraient rendaient l’expérience très réaliste. J’ai surtout aimé la projection sur la baleine parce qu’on pouvait comprendre comment elle perçoit le monde.
+
+### Ce que je ferais autrement
+Je ne changerais pas grand-chose parce que j’ai vraiment aimé l’exposition. Peut-être ajouter des effets de vagues sur le sol lorsqu'on marche.
+
+### Mon expérience vécue
+Pendant ma visite de Panorama Expérience – Eaux vives, je me suis sentie plongée dans l’univers de l’océan grâce aux sons et aux projections. C’était une expérience à la fois relaxante et intéressante.
