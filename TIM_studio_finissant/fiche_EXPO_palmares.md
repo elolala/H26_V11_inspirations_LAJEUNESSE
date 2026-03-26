@@ -11,6 +11,9 @@
 ## Schéma de l'installation prévue
 ## Ce que j'ai ressentis
 ## 3 Cours incontournables
+- Programmation
+- Web
+- Design graphique
 ## Composante/Technique que je ne connaissais pas
 ### Je ne connaissais pas trop la gestion des manettes via téléphone connecté en Wi-Fi, ni comment synchroniser plusieurs joueurs en même temps dans un jeu. Aussi, la gestion des lumières avec un logiciel comme Hyper HDR était nouvelle pour moi.
 
