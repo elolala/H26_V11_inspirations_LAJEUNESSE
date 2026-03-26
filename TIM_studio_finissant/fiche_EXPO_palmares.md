@@ -11,7 +11,7 @@
 - Installation immersive interactive avec un grand écran projeté sur un mur. Les joueurs s'installent sur les poufs et utilisent leur téléphone comme manette pour contrôler leur opérateur. Il y a du son avec des haut-parleurs et des lumières d’ambiance qui changent avec le jeu pour rendre l’expérience plus immersive.
 ## Schéma de l'installation prévue
 ## Ce que j'ai ressentis
-- J’ai trouvé le projet vraiment intéressant et amusant, surtout le côté collaboratif où tout le monde doit travailler ensemble sinon on recommence. C’était stressant mais dans le bon sens, ça donne envie de s’améliorer. J'aime aussi le fait qu'il y a plusieurs niveaux. L’ambiance avec les lumières et le son rendait ça encore plus immersif.
+- J’ai trouvé le projet vraiment intéressant et amusant, surtout le côté collaboratif où tout le monde doit travailler ensemble sinon on recommence. C’était stressant mais dans le bon sens, ça donne envie de s’améliorer. J'aime aussi le fait qu'il y a plusieurs niveaux. L’ambiance avec les lumières et le son rendait ça encore plus immersif. Très belle installation.
 ## 3 Cours incontournables
 - Programmation
 - Web
