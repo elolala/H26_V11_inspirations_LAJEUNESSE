@@ -30,8 +30,13 @@
 - Installation immersive avec des télévisions cathodiques disposées au centre de la salle. Les écrans diffusent des regards d’animaux en boucle. Le visiteur peut circuler autour et interagir avec l’oeuvre grâce à des caméras qui captent son regard. Des lumières LED et une ambiance sonore pour rendre l’expérience vivante. Lorsque le visiteur se place dans le spotlight, on peut voir ses yeux sur les écrans.
 ## Schéma de l'installation prévue
 ## Ce que j'ai ressentis
+- J’ai trouvé l’expérience vraiment différente et plus calme. Ça fait un peu bizarre au début de se sentir observé, mais après ça devient intéressant de voir son propre regard sur les écrans. C’est très beau visuellement.
 ## 3 Cours incontournables
+- Audio
+- Programmation
+- Design graphique
 ## Composante/Technique que je ne connaissais pas
+- Je ne connaissais pas l’utilisation de caméras avec MediaPipe pour capter et suivre le regard en temps réel. Aussi, l’utilisation de TouchDesigner pour créer des visuels interactifs et connecter plusieurs éléments (lumière, son, vidéo, etc.) était nouvelle pour moi.
 
 ## N. 3 / Mission Décollage
 ## Créateurs et créatrices
