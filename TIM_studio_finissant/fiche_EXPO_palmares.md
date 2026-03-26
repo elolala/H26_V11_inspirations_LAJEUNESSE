@@ -58,10 +58,16 @@
 - Ryan Dufault
 - Walid Cheour
 ## Installation en cours (ou finale)
+- Installation interactive avec un panneau de contrôle rempli de boutons, sliders et interrupteurs. Le jeu est projeté sur un mur et les joueurs contrôlent la fusée en manipulant les commandes. L'installation est accompagné de sons immersifs diffusés par des haut-parleurs.
 ## Schéma de l'installation prévue
 ## Ce que j'ai ressentis
+- J’ai trouvé le projet vraiment stressant mais fun, surtout parce qu’il faut bien communiquer sinon ça marche pas. C’est difficile parce que tout se passe en même temps, mais ça rend l’expérience super immersive. J’ai aimé le côté teamwork où chacun a un rôle important.
 ## 3 Cours incontournables
+- Programmation
+- Design graphique
+- Domaines multimédias
 ## Composante/Technique que je ne connaissais pas
+- Je ne connaissais pas l’utilisation des Arduino pour créer un vrai panneau de contrôle physique connecté à un jeu.
 
 ## N. 5 / Océan Rouge
 ## Créateurs et créatrices
