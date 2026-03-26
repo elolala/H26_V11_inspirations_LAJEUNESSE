@@ -80,7 +80,13 @@
 - Amira Tounekti
 - Kristy Moussally
 ## Installation en cours (ou finale)
+- Installation interactive sous forme d’arcade avec un joystick et un écran. Le joueur contrôle un sous-marin pour nettoyer un océan pollué. Le son et les visuels évoluent selon les actions du joueur, passant d’une ambiance sombre à plus harmonieuse.
 ## Schéma de l'installation prévue
 ## Ce que j'ai ressentis
+- J’ai trouvé le projet vraiment amusant à manipuler avec le joystick mais ce n'était pas mon coup de coeur. J’ai quand même aimé voir le changement visuel et sonore quand on enlève les déchets, ça donne une satisfaction.
 ## 3 Cours incontournables
+- Programmation
+- Audio
+- Design graphique
 ## Composante/Technique que je ne connaissais pas
+- Je ne connaissais pas le joystick 4D avec autant de types d’inputs (rotation, déplacement, bouton).
