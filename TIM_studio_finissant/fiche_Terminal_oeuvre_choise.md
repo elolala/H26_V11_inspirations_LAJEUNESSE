@@ -24,7 +24,7 @@ Plus on avance, plus ça devient difficile avec des nouveaux obstacles et mécan
 - Espace pour plusieurs joueurs
 
 ### Espacement
-![Photo](Photos/terminal_croquis.jpg)
+![Photo](Photos/terminal_croquis.png)
 
 ### Expérience vécue
 - C'était stressant mais amusant. Un peu rageant lorsqu'on devait toujours recommencer. On pouvait vivre l'expérience de façon confortable sur les poufs.
