@@ -12,10 +12,7 @@
 - Dana Saavedra-Torrano
 - Mégane Ranger
 
-TERMINAL est un jeu collaboratif interactif où jusqu’à 6 joueurs jouent ensemble avec leur téléphone comme manette.
-Le but est de se déplacer dans un réseau numérique en évitant des obstacles. Chaque joueur laisse une trace derrière lui, et ça devient un danger pour les autres.
-Il faut donc vraiment bien communiquer et faire attention. Si une personne perd, tout le monde recommence ce qui rend le jeu plus intense.
-Plus on avance, plus ça devient difficile avec des nouveaux obstacles et mécaniques, ce qui rend l’expérience immersive.
+- TERMINAL est un jeu collaboratif interactif où jusqu’à 6 joueurs jouent ensemble avec leur téléphone comme manette. Le but est de se déplacer dans un réseau numérique en évitant des obstacles. Chaque joueur laisse une trace derrière lui, et ça devient un danger pour les autres. Il faut donc vraiment bien communiquer et faire attention. Si une personne perd, tout le monde recommence ce qui rend le jeu plus intense. Plus on avance, plus ça devient difficile avec des nouveaux obstacles et mécaniques, ce qui rend l’expérience immersive.
 
 ### Éléments nécessaires à la mise en exposition
 - Projecteur + mur de projection
