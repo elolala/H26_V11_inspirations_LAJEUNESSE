@@ -17,7 +17,7 @@
 - Web
 - Design graphique
 ## Composante/Technique que je ne connaissais pas
-- Je ne connaissais pas trop la gestion des manettes via téléphone connecté en Wi-Fi, ni comment synchroniser plusieurs joueurs en même temps dans un jeu. Aussi, la gestion des lumières avec un logiciel comme Hyper HDR était nouvelle pour moi.
+- Je ne connaissais pas trop la gestion des manettes via téléphone connecté en Wi-Fi, ni comment synchroniser plusieurs joueurs en même temps dans un jeu. La gestion des lumières avec un logiciel comme Hyper HDR était nouvelle pour moi.
 
 ## N. 2 / Quand les yeux se croisent
 ## Créateurs et créatrices
@@ -64,11 +64,17 @@
 - Ryan Dufault
 - Walid Cheour
 ## Installation en cours (ou finale)
+- Installation interactive avec une table centrale composée de 4 stations physiques (eau, feu, poudres, tourbillon). Les joueurs manipulent de vrais objets (erlenmeyer, boutons, joystick, knob) pendant qu’un laboratoire virtuel est projeté sur un mur. Le visuel, le son et les lumières réagissent en temps réel aux actions des participants.
 ## Schéma de l'installation prévue
 ## Ce que j'ai ressentis
+- J’ai trouvé le projet stressant mais vraiment amusant. Pourvu qu'on dépend des autres, ça met une pression constante mais ça rend le jeu intense et addictif. J’ai aimé devoir se concentrer tout en aidant les autres en même temps.
 ## 3 Cours incontournables
+- Audio
+- Programmation
+- Design graphique
 ## Composante/Technique que je ne connaissais pas
-
+- Je ne connaissais pas l’utilisation d’un accéléromètre dans un objet comme un erlenmeyer pour détecter les mouvements.
+  
 ## N. 5 / Océan Rouge
 ## Créateurs et créatrices
 - Amira Tounekti
