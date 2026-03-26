@@ -8,6 +8,7 @@
 - Dana Saavedra-Torrano
 - Mégane Ranger
 ## Installation en cours (ou finale)
+- Installation immersive interactive avec un grand écran projeté sur un mur. Les joueurs s'installent sur les poufs et utilisent leur téléphone comme manette pour contrôler leur opérateur. Il y a du son avec des haut-parleurs et des lumières d’ambiance qui changent avec le jeu pour rendre l’expérience plus immersive.
 ## Schéma de l'installation prévue
 ## Ce que j'ai ressentis
 ## 3 Cours incontournables
@@ -15,7 +16,7 @@
 - Web
 - Design graphique
 ## Composante/Technique que je ne connaissais pas
-### Je ne connaissais pas trop la gestion des manettes via téléphone connecté en Wi-Fi, ni comment synchroniser plusieurs joueurs en même temps dans un jeu. Aussi, la gestion des lumières avec un logiciel comme Hyper HDR était nouvelle pour moi.
+- Je ne connaissais pas trop la gestion des manettes via téléphone connecté en Wi-Fi, ni comment synchroniser plusieurs joueurs en même temps dans un jeu. Aussi, la gestion des lumières avec un logiciel comme Hyper HDR était nouvelle pour moi.
 
 ## N. 2 / Quand les yeux se croisent
 ## Créateurs et créatrices
