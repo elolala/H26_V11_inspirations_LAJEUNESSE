@@ -27,6 +27,7 @@
 - Patricia Nassif
 - Manel Yaya
 ## Installation en cours (ou finale)
+- Installation immersive avec des télévisions cathodiques disposées au centre de la salle. Les écrans diffusent des regards d’animaux en boucle. Le visiteur peut circuler autour et interagir avec l’oeuvre grâce à des caméras qui captent son regard. Des lumières LED et une ambiance sonore pour rendre l’expérience vivante. Lorsque le visiteur se place dans le spotlight, on peut voir ses yeux sur les écrans.
 ## Schéma de l'installation prévue
 ## Ce que j'ai ressentis
 ## 3 Cours incontournables
