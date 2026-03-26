@@ -23,9 +23,11 @@
 ![Photo](Photos/terminal_croquis.png)
 
 ### Expérience vécue
+![Photo](Photos/terminal_experience.jpg)
 - C'était stressant mais amusant. Un peu rageant lorsqu'on devait toujours recommencer. On pouvait vivre l'expérience de façon confortable sur les poufs.
 
 ### Ce que j'ai aimé
+![Photo](Photos/terminal_manette.jpg)
 - J'ai aimée le coté collaboratif et que chaque joueur soit important. J'ai beaucoup aimé que nos téléphones servent de manette pour le jeu, c'est efficace.
 
 ### Ce que je ferais autrement
