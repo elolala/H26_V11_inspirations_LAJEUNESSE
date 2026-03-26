@@ -1,6 +1,6 @@
 # TERMINAL - Réseau vivant
 ## Grand studio du programme TIM
-- ![Photo](Photos/titre_exposition.jpg)
+![Photo](Photos/titre_exposition.jpg)
 
 ![Photo](Photos/terminal_devant.jpg)
 >24 février et 17 mars 2026 - Terminal - Réalisé en 2026
