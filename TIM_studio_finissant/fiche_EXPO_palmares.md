@@ -46,18 +46,6 @@
 - Thearylou Lach
 - Jad Saloumi
 ## Installation en cours (ou finale)
-## Schéma de l'installation prévue
-## Ce que j'ai ressentis
-## 3 Cours incontournables
-## Composante/Technique que je ne connaissais pas
-
-## N. 4 / Symbiose
-## Créateurs et créatrices
-- Yannick Chamberland
-- Benjamin Ferland
-- Ryan Dufault
-- Walid Cheour
-## Installation en cours (ou finale)
 - Installation interactive avec un panneau de contrôle rempli de boutons, sliders et interrupteurs. Le jeu est projeté sur un mur et les joueurs contrôlent la fusée en manipulant les commandes. L'installation est accompagné de sons immersifs diffusés par des haut-parleurs.
 ## Schéma de l'installation prévue
 ## Ce que j'ai ressentis
@@ -68,6 +56,18 @@
 - Domaines multimédias
 ## Composante/Technique que je ne connaissais pas
 - Je ne connaissais pas l’utilisation des Arduino pour créer un vrai panneau de contrôle physique connecté à un jeu.
+
+## N. 4 / Symbiose
+## Créateurs et créatrices
+- Yannick Chamberland
+- Benjamin Ferland
+- Ryan Dufault
+- Walid Cheour
+## Installation en cours (ou finale)
+## Schéma de l'installation prévue
+## Ce que j'ai ressentis
+## 3 Cours incontournables
+## Composante/Technique que je ne connaissais pas
 
 ## N. 5 / Océan Rouge
 ## Créateurs et créatrices
