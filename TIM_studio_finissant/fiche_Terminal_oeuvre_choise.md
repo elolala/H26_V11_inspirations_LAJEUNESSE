@@ -4,6 +4,7 @@
 - ![Photo](Photos/titre_exposition.jpg) ![Photo](Photos/terminal_devant.jpg)
 >24 février et 17 mars 2026 - Terminal - Réalisé en 2026
 >
+- TERMINAL est un jeu collaboratif interactif où jusqu’à 6 joueurs jouent ensemble avec leur téléphone comme manette. Le but est de se déplacer dans un réseau numérique en évitant des obstacles. Chaque joueur laisse une trace derrière lui, et ça devient un danger pour les autres. Il faut donc vraiment bien communiquer et faire attention. Si une personne perd, tout le monde recommence ce qui rend le jeu plus intense. Plus on avance, plus ça devient difficile avec des nouveaux obstacles et mécaniques, ce qui rend l’expérience immersive.
 
 ## Nom de l'artiste ou de la firme
 - Émeryk Bélisle
@@ -11,8 +12,6 @@
 - Ting Yung Lu Terry
 - Dana Saavedra-Torrano
 - Mégane Ranger
-
-- TERMINAL est un jeu collaboratif interactif où jusqu’à 6 joueurs jouent ensemble avec leur téléphone comme manette. Le but est de se déplacer dans un réseau numérique en évitant des obstacles. Chaque joueur laisse une trace derrière lui, et ça devient un danger pour les autres. Il faut donc vraiment bien communiquer et faire attention. Si une personne perd, tout le monde recommence ce qui rend le jeu plus intense. Plus on avance, plus ça devient difficile avec des nouveaux obstacles et mécaniques, ce qui rend l’expérience immersive.
 
 ### Éléments nécessaires à la mise en exposition
 - Projecteur + mur de projection
