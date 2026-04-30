@@ -34,7 +34,7 @@ L’installation est placée au centre d’un espace ouvert. Le dispositif en fo
 ![Interaction 2](Photos/Interaction_2_dispositif.jpg)  
 ![Résultat](Photos/Resultat_dispositif.jpg)
 
-Le visiteur doit suivre les étapes : choisir un combustible, souffler dans le capteur, puis interagir avec le cercle pour récupérer la récompense. Le feu réagit directement, ce qui rend l’expérience vraiment engageante. J’ai trouvé ça fun parce qu’on participe vraiment au lieu de juste regarder.
+Le visiteur doit suivre les étapes : choisir un combustible, souffler dans le capteur, puis interagir avec le cercle pour récupérer la récompense. Le feu réagit directement, ce qui rend l’expérience vraiment immersive. J’ai trouvé ça amusant parce qu’on participe vraiment au lieu de juste regarder.
 
 ## Ce qui m’a plu
 J’ai aimé le côté interactif et simple à comprendre. Le fait de souffler rend l’expérience plus réaliste. Les lumières du feu sont aussi très réussies et immersives. Ça m’a donné des idées pour créer des projets interactifs.
