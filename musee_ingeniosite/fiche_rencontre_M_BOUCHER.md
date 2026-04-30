@@ -11,4 +11,4 @@ M. Boucher a aussi parlé de certains défis, comme le langage scientifique parf
 En conclusion, la conférence était intéressante et inspirante, car elle montrait concrètement comment créer des projets multimédias interactifs. J’ai particulièrement aimé les exemples réels comme celui du métro, car ils rendent les explications plus claires et concrètes.
 
 ![Dispositif métro Montréal](Photos/metro_dispositif.jpg)
-*Source : Centre des sciences de Montréal*
+>Source : Centre des sciences de Montréal
