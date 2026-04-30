@@ -18,10 +18,9 @@ L’installation est placée au centre d’un espace ouvert. Le dispositif en fo
 ## Composantes et techniques
 - Structure en forme de volcan avec lumières LED  
 - Capteur pour détecter le souffle  
-- Zones tactiles pour choisir le combustible  
+- Boutons pour choisir le combustible  
 - Écran avec animation  
-- Système sonore  
-- Capteurs interactifs  
+- Système sonore
 
 ## Éléments nécessaires à la mise en exposition
 - Socle solide  
