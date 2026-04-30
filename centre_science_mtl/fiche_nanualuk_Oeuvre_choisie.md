@@ -47,12 +47,12 @@ Le visiteur doit suivre les étapes : choisir un combustible, souffler dans le c
 
 ---
 
-## ❤️ Ce qui m’a plu
+## Ce qui m’a plu
 J’ai aimé le côté interactif et simple à comprendre. Le fait de souffler rend l’expérience plus réaliste. Les lumières du feu sont aussi très réussies et immersives. Ça m’a donné des idées pour créer des projets interactifs.
 
 ---
 
-## 🤔 Ce que je ferais autrement
+## Ce que je ferais autrement
 J’ajouterais plus de feedback quand on se trompe pour mieux comprendre les erreurs. Aussi, rendre l’activité un peu plus longue ou avec plus d’étapes.
 
 ---
