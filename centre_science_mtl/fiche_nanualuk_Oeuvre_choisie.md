@@ -13,7 +13,7 @@ Le dispositif sert comme support pédagogique. Il apprend aux visiteurs comment 
 ## Mise en espace
 ![Vue d’ensemble](Photos/Vue_loin_dispositif.jpg)
 
-L’installation est placée au centre d’un espace ouvert. Le dispositif en forme de “volcan” est au milieu sur une base hexagonale. Les instructions sont autour (étapes 1, 2, 3). À l’arrière, il y a un visuel du paysage nordique qui ajoute à l’ambiance.
+L’installation est placée au centre d’un espace ouvert. Le dispositif en forme de “volcan” est au milieu sur une base hexagonale. Les instructions sont autour (étapes 1, 2, 3).
 
 ## Composantes et techniques
 - Structure en forme de volcan avec lumières LED  
