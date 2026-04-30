@@ -34,14 +34,14 @@ L’installation est placée au centre d’un espace ouvert. Le dispositif en fo
 ![Interaction 2](Photos/Interaction_2_dispositif.jpg)  
 ![Résultat](Photos/Resultat_dispositif.jpg)
 
-Le visiteur doit suivre les étapes : choisir un combustible, souffler dans le capteur, puis interagir avec le cercle pour récupérer la récompense. Le feu réagit directement, ce qui rend l’expérience vraiment immersive. J’ai trouvé ça amusant parce qu’on participe vraiment au lieu de juste regarder.
+Le visiteur doit suivre les étapes : choisir un combustible, souffler dans le capteur, puis interagir avec le cercle pour récupérer la récompense. Le volcan réagit directement, ce qui rend l’expérience vraiment immersive. J’ai trouvé ça amusant parce qu’on participe vraiment au lieu de juste regarder.
 
 ## Ce qui m’a plu
-J’ai aimé le côté interactif et simple à comprendre. Le fait de souffler rend l’expérience plus réaliste. Les lumières du feu sont aussi très réussies et immersives. Ça m’a donné des idées pour créer des projets interactifs.
+J’ai aimé le côté interactif et simple à comprendre. Le fait de souffler rend l’expérience plus réaliste. Les lumières du feu sont aussi très réussies et immersives.
 
 ## Ce que je ferais autrement
-J’ajouterais plus de feedback quand on se trompe pour mieux comprendre les erreurs. Aussi, rendre l’activité un peu plus longue ou avec plus d’étapes.
+Rendre l’activité un peu plus longue ou avec plus d’étapes.
 
 ## Références
 Photos prises par moi au Centre des sciences de Montréal  
-Exposition : Nanualuk – Expédition nordique
+https://www.centredessciencesdemontreal.com/
