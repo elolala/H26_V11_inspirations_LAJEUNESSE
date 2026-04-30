@@ -13,7 +13,7 @@ Le dispositif sert comme support pédagogique. Il apprend aux visiteurs comment 
 ## Mise en espace
 ![Vue d’ensemble](Photos/Croquis.jpg)
 
-L’installation est placée au centre d’un espace ouvert. Le dispositif en forme de “volcan” est au milieu sur une base hexagonale. Les instructions sont autour (étapes 1, 2, 3).
+L’installation est placée au centre d’un espace ouvert. Le dispositif en forme de volcan est au milieu sur une base hexagonale. Les instructions sont autour (étapes 1, 2, 3).
 
 ## Composantes et techniques
 - Structure en forme de volcan avec lumières LED  
@@ -25,7 +25,6 @@ L’installation est placée au centre d’un espace ouvert. Le dispositif en fo
 ## Éléments nécessaires à la mise en exposition
 - Socle solide  
 - Alimentation électrique  
-- Câbles et système électronique cachés  
 - Signalisation (instructions)  
 - Espace sécuritaire pour circuler  
 
