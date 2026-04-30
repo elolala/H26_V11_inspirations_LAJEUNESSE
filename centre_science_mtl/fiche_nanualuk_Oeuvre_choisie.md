@@ -11,7 +11,7 @@ C’est une exposition interactive. On peut participer directement au dispositif
 Le dispositif sert comme support pédagogique. Il apprend aux visiteurs comment allumer un feu correctement et de façon sécuritaire.
 
 ## Mise en espace
-![Vue d’ensemble](Photos/Vue_loin_dispositif.jpg)
+![Vue d’ensemble](Photos/Croquis.jpg)
 
 L’installation est placée au centre d’un espace ouvert. Le dispositif en forme de “volcan” est au milieu sur une base hexagonale. Les instructions sont autour (étapes 1, 2, 3).
 
